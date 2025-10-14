@@ -7,6 +7,15 @@
     "expiresAt": "2025-10-15",
     "allowOffline": true
   },
+
+  [
+  {
+    "id": "773c81c83af4e639",
+    "username": "adibX",
+    "password": "4dibx786",
+    "expiresAt": "2025-10-21",
+    "allowOffline": true
+  },
   {
     "id": "android_device_id_2",
     "username": "user2",
