@@ -14,6 +14,13 @@
     "expiresAt": "2025-11-10",
     "allowOffline": true
   },
+{
+    "id": "7bff04dc6e477b23",
+    "username": "drivers",
+    "password": "driver4455",
+    "expiresAt": "2025-11-12",
+    "allowOffline": true
+  },
   {
     "id": "android_device_id_2",
     "username": "user2",
